@@ -96,11 +96,11 @@ You can find the installation video [here](https://www.youtube.com/watch?v=cXBa6
 
   You can now sign in to the app with `admin@quivr.app` & `admin`. You can access the app at [http://localhost:3000/login](http://localhost:3000/login).
 
-  You can access Quivr backend API at [http://localhost:5050/docs](http://localhost:5050/docs)
+  You can access Nirvana backend API at [http://localhost:5050/docs](http://localhost:5050/docs)
 
   You can access supabase at [http://localhost:54323](http://localhost:54323)
 
-## Updating Quivr 🚀
+## Updating Nirvana 🚀
 
 - **Step 1**: Pull the latest changes
 
@@ -115,23 +115,8 @@ You can find the installation video [here](https://www.youtube.com/watch?v=cXBa6
   ```
 
 
-## Contributors ✨
-
-Thanks go to these wonderful people:
-<a href="https://github.com/quivrhq/quivr/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=quivrhq/quivr" />
-</a>
 
 ## Contribute 🤝
-
-Did you get a pull request? Open it, and we'll review it as soon as possible. Check out our project board [here](https://github.com/users/StanGirard/projects/5) to see what we're currently focused on, and feel free to bring your fresh ideas to the table!
-
-- [Open Issues](https://github.com/quivrhq/quivr/issues)
-- [Open Pull Requests](https://github.com/quivrhq/quivr/pulls)
-- [Good First Issues](https://github.com/quivrhq/quivr/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-- [Frontend Issues](https://github.com/quivrhq/quivr/issues?q=is%3Aopen+is%3Aissue+label%3Afrontend)
-- [Backend Issues](https://github.com/quivrhq/quivr/issues?q=is%3Aopen+is%3Aissue+label%3Abackend)
-- [Translate](https://docs.quivr.app/docs/Developers/contribution/guidelines#translations)
 
 ## Partners ❤️
 
